@@ -13,6 +13,7 @@ const CategoryProducts = () => {
       setProducts(data)
     }
     fetchProducts()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   if (products.length === 0) return <div>Loading.....</div>
