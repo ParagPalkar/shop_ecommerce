@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a4b98331-4fc6-4b95-b773-1a817470b76a/deploy-status)](https://app.netlify.com/sites/majestic-meringue-0e0988/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
